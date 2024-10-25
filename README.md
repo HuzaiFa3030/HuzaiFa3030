@@ -37,6 +37,9 @@ Advanced mobile optimizations for high-performance apps Machine Learning in mobi
 # 🛠️ Open Source Contributions:
 I enjoy contributing to open-source projects focusing on mobile development and React Native tooling.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HuzaiFa3030&theme=merko&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifa3030&theme=dark)](https://git.io/streak-stats)
+
 ## 📫 Contact Me
 
 - **Email:** [muhammadhuzaifa3030@gmail.com](mailto:muhammadhuzaifa3030@gmail.com)
@@ -46,7 +49,3 @@ I enjoy contributing to open-source projects focusing on mobile development and 
 Feel free to reach out if you’d like to collaborate on a project, discuss tech, or just connect!
 
 Thanks for stopping by! 😊
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HuzaiFa3030&theme=merko&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifa3030&theme=dark)](https://git.io/streak-stats)
