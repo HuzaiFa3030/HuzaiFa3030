@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 📫 Connect with me on [LinkedIn](your-linkedin-url)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HuzaiFa3030&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaiFa3030&layout=compact)
