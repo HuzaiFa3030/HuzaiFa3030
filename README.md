@@ -30,6 +30,7 @@ Languages & Frameworks: JavaScript, TypeScript, React Native.
 Tools: Git, Firebase, Redux, Expo, Vision Camera, React Native Video Platforms: Android & iOS.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaiFa3030&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true)
 
 # 🌱 Currently Learning: 
 Advanced mobile optimizations for high-performance apps Machine Learning in mobile applications with MLKit
