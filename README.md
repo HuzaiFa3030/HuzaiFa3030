@@ -41,4 +41,4 @@ Thanks for stopping by! 😊
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HuzaiFa3030&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Huzaifa30301&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Huzaifa3030&theme=dark)](https://git.io/streak-stats)
