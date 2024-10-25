@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm HuzaiFa3030 👋
+
+- 🚀 React Native Developer | Mobile App Enthusiast
+- 👨‍💻 Passionate about building interactive applications
+- 🌱 Currently learning advanced mobile optimizations and ML in mobile apps
+- 📫 Connect with me on [LinkedIn](your-linkedin-url)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HuzaiFa3030&show_icons=true)
