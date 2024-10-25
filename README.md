@@ -29,8 +29,7 @@ I'm a dedicated mobile developer focused on crafting high-quality, interactive a
 Languages & Frameworks: JavaScript, TypeScript, React Native.
 Tools: Git, Firebase, Redux, Expo, Vision Camera, React Native Video Platforms: Android & iOS.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaiFa3030&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaiFa3030&theme=dark&layout=compact)
 
 # 🌱 Currently Learning: 
 Advanced mobile optimizations for high-performance apps Machine Learning in mobile applications with MLKit
@@ -41,5 +40,5 @@ I enjoy contributing to open-source projects focusing on mobile development and 
 Thanks for stopping by! 😊
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HuzaiFa3030&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HuzaiFa3030&theme=merko&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifa3030&theme=dark)](https://git.io/streak-stats)
