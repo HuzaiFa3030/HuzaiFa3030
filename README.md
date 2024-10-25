@@ -37,6 +37,14 @@ Advanced mobile optimizations for high-performance apps Machine Learning in mobi
 # 🛠️ Open Source Contributions:
 I enjoy contributing to open-source projects focusing on mobile development and React Native tooling.
 
+## 📫 Contact Me
+
+- **Email:** [muhammadhuzaifa3030@gmail.com](mailto:muhammadhuzaifa3030@gmail.com)
+- **LinkedIn:** [Muhammad Huzaifa](https://www.linkedin.com/in/muhammad-huzaifa-999bb2207/)
+- **GitHub:** [Github](https://github.com/HuzaiFa3030)
+
+Feel free to reach out if you’d like to collaborate on a project, discuss tech, or just connect!
+
 Thanks for stopping by! 😊
 
 
