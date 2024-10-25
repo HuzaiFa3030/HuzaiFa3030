@@ -1,17 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<!-- <div id="badges">
-  <a href="your-linkedin-URL">
+</div>
+<div id="badges" align="center">
+  <a href="mailto:muhammadhuzaifa3030@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-huzaifa-999bb2207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://wa.me/923172043030">
+    <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div> -->
-</div>
+</div> 
+
 <h1 align="center">Hi there, I'm Muhammad Huzaifa 👋</h1>
 <h3 align="center">🚀React Native Developer | Mobile App Enthusiast</h3>
 I'm a dedicated mobile developer focused on crafting high-quality, interactive applications in React Native. With a passion for seamless user experiences and efficient solutions, I love to bring creative ideas to life in the mobile space.
